@@ -15,6 +15,9 @@ const Navbar = () => {
             <li>
               <NavLink className="text-white text-decoration-none" to="/AboutUs">About us</NavLink>
             </li>
+            <li>
+              <NavLink className="text-white text-decoration-none" to="/Contacts">Contacts</NavLink>
+            </li>
           </nav>
         </div>
       </div>
